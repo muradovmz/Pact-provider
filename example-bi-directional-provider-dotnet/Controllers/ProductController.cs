@@ -14,7 +14,7 @@ namespace Provider.Controllers
             {
                 new Product { id = 3, type = "SNACK1", name = "muesli bar"},
                 new Product { id = 10, type = "LUNCH", name = "sandwich"},
-                new Product { id = 27, type = "DINNER", name = "burger"}
+                new Product { id = 28, type = "DINNER", name = "burger" }
 
             };
 
